@@ -18,3 +18,8 @@ A Bash script that prints basic server performance statistics on a Linux system.
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
+
+
+## Project Page
+
+https://roadmap.sh/projects/server-stats
